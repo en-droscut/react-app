@@ -1,0 +1,27 @@
+/* .listGroup { */
+    /* background-color:red !important;    */
+/* } */
+
+/* .cont { */
+    /* border: 1px solid red !important; */
+/* } */
+
+.basic {
+    border: 1px red !important;
+}
+
+.basic-extended {
+    box-shadow: 10px 10px solid green;
+}
+
+.extra {
+    color: blue !important;
+}
+
+li {
+    color: blue !important;
+}
+
+li.active {
+    color: white !important;
+}
